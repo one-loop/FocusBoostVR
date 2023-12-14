@@ -1,6 +1,7 @@
 # FocusBoostVR
 ENGR 1001 Computer Programming For Engineers VR Term Project
 
+![alt text](https://saadsifar.vercel.app/cards/Focus%20Boost.png)
 
 ### 📌 User Guide:
 
