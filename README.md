@@ -1,5 +1,5 @@
 # FocusBoostVR
-ENGR 1001 - CPE VR Term Project
+ENGR 1001 Computer Programming For Engineers VR Term Project
 
 
 ### 📌 User Guide:
